@@ -1,5 +1,5 @@
 # App-Development-with-Backstage
-onboard services onto the platform using developer portals and Backstage plugins 
+onboard services onto the platform using developer portals with Backstage plugins 
 
 
 # Architectural Flow Overview
